@@ -1,0 +1,26 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "../../assets/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "../../assets/skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "../../assets/skills/react.png"
+  },
+  {
+    "title": "NextJS",
+    "imageSrc": "../../assets/skills/next.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "../../assets/skills/node.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "../../assets/skills/graphql.png"
+  }
+]

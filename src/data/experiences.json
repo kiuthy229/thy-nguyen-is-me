@@ -1,0 +1,48 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Gyld Labs",
+    "startDate": "Dec, 2023",
+    "endDate": "Jan, 2025",
+    "experiences": [
+      "Worked on web3 products",
+      "Contributed to an app at formo.so",
+      "Contributed to Formo Analytics product, configuration, and deployment",
+      "Learned web3 knowledge"
+    ],
+    "imageSrc": "../../assets/experiences/gyld.png"
+  },
+  {
+    "role": "Fullstack Engineer",
+    "organisation": "National Australia Bank",
+    "startDate": "Jan, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": [
+      "Contributed to SC Vulnerability Management Platform",
+      "Contributed to go/ta: The platform of Tech Academy which provides NAB’s newcomers with more than 20 labs to be acquainted with technical stacks and frameworks at NAB. The platform is now in the process of further development to support newcomers, including Starcampers (interns at NAB)",
+      "Learned Enterprise Compliance Management and banking knowledge",
+      "Collaborated with cross-functional teams to develop Micro-frontend ReactJS web applications.",
+      "Gained knowledge of Micro-service of how to build a scalable, fault tolerance, resilience service",
+      "Worked in an Agile Scrum team, utilized ReactJS, NodeJS, GraphQL, and Redux to deliver high-quality and user-friendly web applications",
+      "Contributed to the development of RESTful APIs and utilized Docker, and Jenkins for CI configuration.",
+      "Learned AWS deployment and management",
+      "Achieved AWS Certified Cloud Practitioner CLF-C02",
+      "Conducted unit testing with Jest and React Testing Library to ensure the quality of the code."
+    ],
+    "imageSrc": "../../assets/experiences/nab.png"
+  },
+  {
+    "role": "Frontend Engineer Intern",
+    "organisation": "National Australia Bank",
+    "startDate": "Oct, 2022",
+    "endDate": "Jan, 2023",
+    "experiences": [
+      "Contributed to Starcamp Capstone project: Credit Card Limit Decrease",
+      "Learned Banking knowledge and did compliance tests in banking area",
+      "Learned Scrum process, contributed to a team as Frontend Engineer role to develop front-end and BFF (back-end for front-end) with Apollo GraphQL",
+      "Learned NAB Software Architecture",
+      "Achieved Microsoft Azure Fundamentals AZ-900"
+    ],
+    "imageSrc": "../../assets/experiences/nab.png"
+  }
+]
